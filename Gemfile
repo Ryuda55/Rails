@@ -61,3 +61,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+#Webサイトにログイン(認証)の仕組みを導入するために「devise」を導入
+gem 'devise'
