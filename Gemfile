@@ -64,3 +64,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Webサイトにログイン(認証)の仕組みを導入するために「devise」を導入
 gem 'devise'
+
+#CSSフレームワークにbootstrapの導入
+gem 'jquery-rails'
+gem 'bootstrap-sass'
